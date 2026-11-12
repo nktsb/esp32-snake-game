@@ -1,10 +1,10 @@
 /*
  * -----------------------------------------------------------------------------
- * Project       : ESP32-snake-game
+ * Project       : esp32-snake-game
  * File          : buttons.cpp
  * Author        : nktsb
  * Created on    : 11.07.2024
- * GitHub        : https://github.com/nktsb/ESP32-snake-game
+ * GitHub        : https://github.com/nktsb/esp32-snake-game
  * -----------------------------------------------------------------------------
  * Copyright (c) 2024 nktsb
  * All rights reserved.
